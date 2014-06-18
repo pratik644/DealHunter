@@ -274,8 +274,8 @@ In the success block of the `fetchConnectedObjectsOfType:withObjectId:withRelati
 
 The project is complete, build and run it.
 
-<img src="http://devcenter.appacitive.com/ios/samples/dealhunter/ss14.png" alt="Screenshot" style="max-width:100%;" />
-<img src="http://devcenter.appacitive.com/ios/samples/dealhunter/ss15.png" alt="Screenshot" style="max-width:100%;" />
+<img src="http://devcenter.appacitive.com/ios/samples/dealhunter/ss14.png" alt="Screenshot" style="width:46%; padding:2%; float:left;" />
+<img src="http://devcenter.appacitive.com/ios/samples/dealhunter/ss15.png" alt="Screenshot" style="width:46%; padding:2%;" />
 
 ####CONCLUSION:
 
